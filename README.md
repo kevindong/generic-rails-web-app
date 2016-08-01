@@ -36,4 +36,4 @@ $ rails server
 
 My original work (essentially a tiny bit of the initial commit and everything after that) are licensed under the MIT License.
 
-The original framework of this web app was based on [Michael Hartl's](http://www.michaelhartl.com/) [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://www.railstutorial.org/), which itself is [jointly licensed under the MIT License and the Beerware License](https://www.railstutorial.org/book/frontmatter#copyright_and_license).
+The original framework of this web app is based on [Michael Hartl's](http://www.michaelhartl.com/) [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://www.railstutorial.org/). That framework is [jointly licensed under the MIT License and the Beerware License](https://www.railstutorial.org/book/frontmatter#copyright_and_license).
